@@ -40,7 +40,7 @@ input:checked ~ ul{
     
 }
 label{
-    font-size: 4em;
+    font-size: 2.5em;
     color: #97DD00;
     display: inline-block;
     
@@ -62,7 +62,6 @@ h1{
     font-size: 8vh;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-weight: lighter;
-    -webkit-text-stroke: 0.5em black;
 }
 .textV{
     color: #97DD00;
